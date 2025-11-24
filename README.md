@@ -46,9 +46,10 @@
 - **Data Analysis**: Transform raw data into actionable insights through cleaning, exploration, and visualization.  
 - **Business Intelligence**: Develop interactive dashboards and dynamic reports to support decision-making.  
 - **Data Engineering**: Build robust data pipelines and workflows for efficient data processing.  
-- **Problem Solving**: Apply advanced calculations, statistical models, and logic to solve business challenges.  
+- **Problem Solving**: Apply advanced calculations, statistical models, and logic to solve business challenges.
 
----
+
+
 
 
 
