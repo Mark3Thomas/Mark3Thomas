@@ -50,18 +50,7 @@
 
 ---
 
-## 🤣 Data Memes  
-Because learning data shouldn’t be serious all the time:
-## 🌟 Goals  
-🚀 Currently preparing for **PL-300: Microsoft Power BI Data Analyst** certification.  
-📚 Continuously exploring data engineering, cloud solutions, and AI-driven analytics.  
 
----
-
-- “I’ll fix it later” — **every dashboard ever**  
-- *SQL*: The art of turning English into error messages  
-- When Excel crashes and you realise you haven’t saved since 2019  
-- Power BI refresh: **99%… 99%… 99%…**
 
 
 
