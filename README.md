@@ -1,161 +1,71 @@
+# Hey there! I'm Mark 👋
+# 💻 Mark Thomas 
+🔍 **Data Analyst | Lifelong Learner**  
+🌟 Passionate about transforming raw data into actionable insights!  
+
+---
+
+## 🔧 What I Work With
+
+### 📊 Excel  
+[![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/microsoft-365/excel)
+- Cleaning and transforming messy data  
+- PivotTables, dashboards, and formula magic  
+- Teaching Excel fundamentals to learners
+
+### 📈 Tableau  
+[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://www.tableau.com/)
+- Interactive dashboards and storytelling  
+- Global Superstore analyses  
+- Calculated fields, parameters, and filters
+
+### 📊 Power BI  
+[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
+- Data modelling, DAX, and Power Query  
+- Real-world reporting projects  
+- Currently preparing for **PL-300 Certification**
+
+### 🗂️ SQL  
+[![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+- Writing joins, aggregations, CTEs  
+- Querying relational databases  
+- Helping learners understand SQL basics
+
+### ☁️ Azure  
+[![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/)
+- Experience teaching Azure SQL Database & Storage  
+- Building an *Introduction to Azure* course  
+- Comfortable with cloud data concepts
+
+### 🐍 Python  
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+- Data analysis with pandas and NumPy  
+- Beginner-friendly automations  
+- Teaching Python basics in data bootcamps
+## 📊 What I Do  
+- **Data Analysis**: Transform raw data into actionable insights through cleaning, exploration, and visualization.  
+- **Business Intelligence**: Develop interactive dashboards and dynamic reports to support decision-making.  
+- **Data Engineering**: Build robust data pipelines and workflows for efficient data processing.  
+- **Problem Solving**: Apply advanced calculations, statistical models, and logic to solve business challenges.  
+
+---
+
+## 🤣 Data Memes  
+Because learning data shouldn’t be serious all the time:
+## 🌟 Goals  
+🚀 Currently preparing for **PL-300: Microsoft Power BI Data Analyst** certification.  
+📚 Continuously exploring data engineering, cloud solutions, and AI-driven analytics.  
+
+---
+
+- “I’ll fix it later” — **every dashboard ever**  
+- *SQL*: The art of turning English into error messages  
+- When Excel crashes and you realise you haven’t saved since 2019  
+- Power BI refresh: **99%… 99%… 99%…**
 
-🔥 About Me
 
-Hello! I am a Data Analyst experienced in transforming raw data into business insights through interactive dashboards, data models, and advanced analytics.
-I specialize in:
 
-Excel (Pivot Tables, Power Query, VBA)
 
-Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)
-
-Power BI (DAX, Data Modeling, Automation)
-
-SQL (Joins, CTEs, Window Functions, Optimization)
-
-Azure (Data Factory, Azure SQL, Storage, Synapse)
-
-Tableau (Visual Analytics, Storytelling)
-
-🧰 Tech Stack & Tools
-<div align="center">
-Category	Tools
-🐍 Programming	Python
-🗄️ Databases	SQL Server • MySQL • PostgreSQL
-📊 Visualization	Power BI • Tableau
-🔧 Cloud	Azure
-🧮 Spreadsheets	Microsoft Excel
-</div>
-📁 Projects
-📌 1. Sales Performance Dashboard (Power BI)
-
-Built a dynamic dashboard analyzing 200k+ sales records
-
-Implemented DAX calculations for KPIs
-
-Automated refresh using Power BI Service & Gateway
-
-🔗 Project Link: [Insert Link]
-
-📌 2. Customer Churn Prediction (Python)
-
-Cleaned and processed customer datasets using Pandas
-
-Built classification models with Scikit-learn
-
-Achieved 89% accuracy in churn prediction
-
-🔗 Project Link: [Insert Link]
-
-📌 3. ETL Pipeline on Azure (ADF + SQL)
-
-Created automated data pipelines using Azure Data Factory
-
-Orchestrated daily loads into Azure SQL
-
-Applied transformations using Mapping Data Flows
-
-🔗 Project Link: [Insert Link]
-
-📈 GitHub Stats
-<div align="center">
-
-</div>
-📬 Contact Me
-<div align="center">
-
-📧 Email: your.email@example.com
-
-🔗 LinkedIn: Your LinkedIn
-
-🌐 Portfolio Website: Your Website
-
-</div>
-🏷️ Badges
-
-
-
-
-
-
-📊 Data Analyst Portfolio
-
-A collection of my projects, skills, and technical capabilities as a Data Analyst.
-
-<div align="center">
-
-</div>
-🔥 About Me
-
-Hello! I am a Data Analyst experienced in transforming raw data into business insights through interactive dashboards, data models, and advanced analytics.
-I specialize in:
-
-Excel (Pivot Tables, Power Query, VBA)
-
-Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)
-
-Power BI (DAX, Data Modeling, Automation)
-
-SQL (Joins, CTEs, Window Functions, Optimization)
-
-Azure (Data Factory, Azure SQL, Storage, Synapse)
-
-Tableau (Visual Analytics, Storytelling)
-
-🧰 Tech Stack & Tools
-<div align="center">
-Category	Tools
-🐍 Programming	Python
-🗄️ Databases	SQL Server • MySQL • PostgreSQL
-📊 Visualization	Power BI • Tableau
-🔧 Cloud	Azure
-🧮 Spreadsheets	Microsoft Excel
-</div>
-📁 Projects
-📌 1. Sales Performance Dashboard (Power BI)
-
-Built a dynamic dashboard analyzing 200k+ sales records
-
-Implemented DAX calculations for KPIs
-
-Automated refresh using Power BI Service & Gateway
-
-🔗 Project Link: [Insert Link]
-
-📌 2. Customer Churn Prediction (Python)
-
-Cleaned and processed customer datasets using Pandas
-
-Built classification models with Scikit-learn
-
-Achieved 89% accuracy in churn prediction
-
-🔗 Project Link: [Insert Link]
-
-📌 3. ETL Pipeline on Azure (ADF + SQL)
-
-Created automated data pipelines using Azure Data Factory
-
-Orchestrated daily loads into Azure SQL
-
-Applied transformations using Mapping Data Flows
-
-🔗 Project Link: [Insert Link]
-
-📈 GitHub Stats
-<div align="center">
-
-</div>
-📬 Contact Me
-<div align="center">
-
-📧 Email: your.email@example.com
-
-🔗 LinkedIn: Your LinkedIn
-
-🌐 Portfolio Website: Your Website
-
-</div>
-🏷️ Badges
 
 
 
