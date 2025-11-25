@@ -5,12 +5,12 @@
 
 ---
 
-## 🔧 What I Work With
+## 🔧 Software I have used
 
 ### 📊 Excel  
 [![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/microsoft-365/excel)
-- Cleaning and transforming messy data  
-- PivotTables, dashboards, and formula magic  
+- Cleaning and transforming data  
+- PivotTables, dashboards, and formula   
 
 
 ### 📈 Tableau  
