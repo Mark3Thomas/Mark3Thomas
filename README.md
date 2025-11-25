@@ -5,7 +5,7 @@
 
 ---
 
-## 🔧 Software I have used
+## 🔧 Software I use
 
 ### 📊 Excel  
 [![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/microsoft-365/excel)
